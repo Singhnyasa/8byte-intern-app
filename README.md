@@ -14,7 +14,7 @@ This project demonstrates a complete DEVOPS OBERFLOW
 - Deployment on AWS EC2
 
 
-Application Deployment Locally
+APPLICATION DEPLOYMENT LOCALLY
 ---------------------------------------------------------------------------------------------
 
 -Install dependencies
