@@ -1,0 +1,5 @@
+aws_region = "us-east-1"
+environment_name = "dev"
+vpc_cidr = "10.0.0.0/16"
+ami_id = "ami-0c398cb65a93047f2"
+instance_type = "t2.micro"
